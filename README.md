@@ -65,7 +65,7 @@ The notebook (`CreditScoreModel.ipynb`) demonstrates a **full ML pipeline**: fro
 - **Language**: Python  
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost/LightGBM  
 - **Tools**: Jupyter Notebook
-- 
+  
 ---
 
 ## Myself:
